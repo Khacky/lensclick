@@ -1,0 +1,32 @@
+.navbar{
+     padding: 8px;
+     font-family:  monospace;
+     width: 70%;
+     overflow: auto;
+     color: white;
+     margin-bottom: 20px;
+     position: sticky;
+}
+.navbar a{
+    font-family:  sans-serif;
+    padding: 4px 2px;
+    color: white;
+    text-decoration:  none;
+    font-size: 25px;
+    width: 15%;
+    text-align: center;
+    border-radius: 5px;
+
+}
+.navbar a:hover{
+
+ background: #2575fc;
+  background: -webkit-linear-gradient(left, #6a11cb, #2575fc);
+  background: -o-linear-gradient(left, #6a11cb, #2575fc);
+  background: -moz-linear-gradient(left, #6a11cb, #2575fc);
+  background: linear-gradient(left, #6a11cb, #2575fc);
+  color: white;
+}
+
+
+
