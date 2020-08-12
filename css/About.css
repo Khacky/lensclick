@@ -1,0 +1,49 @@
+
+body {
+  background-image: linear-gradient(
+    to right bottom,
+    #b91eda,
+    #a02ae0,
+    #8234e5,
+    #5d3be8,
+    #1241eb
+  );
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#head1{
+  text-align: center;
+  color: #fff; /*
+  font-family: 'Patrick Hand'; */
+  font-family: 'Yatra One', cursive;
+  font-size: 36px;
+}
+.container{
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;  /*
+    box-shadow: 0px 9px 13px 5px;
+    background: white; */
+    margin-top: 12px;
+    margin-bottom: 1%;
+    padding: 4px;
+    text-align: center;
+    color: #fff;
+}
+.quote{
+  font-family: 'Cormorant', serif;
+  font-size: 25px;
+  text-align: center;
+  color: #fff;
+}
+
+.moto,.offer{
+  font-family: 'Scheherazade', serif;
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+
+
+

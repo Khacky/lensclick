@@ -1,0 +1,62 @@
+.footerbox .flexm {
+  display: block;
+  float: right;
+  box-shadow: 8px 0 6px -6px black;
+
+}
+.footerbox{
+
+    padding-left: 0;
+    margin-left: 0;
+    justify-content: center;
+    align-items: center;
+    bottom: 0px;
+    right: 0;
+    left: 0;
+    width: 100%;
+
+    position: relative;
+    height: 200px;
+    clear: both;
+    margin-bottom: 0;
+
+   /* +++++++++++++++++++++++++++++*/
+   background:#FFF;
+   z-index: 1;
+   box-shadow:
+
+        3.2px 2.8px 2.2px rgba(0, 0, 0, 0.034),
+        8.3px 6.7px 5.3px rgba(0, 0, 0, 0.048),
+        11px 12.5px 10px rgba(0, 0, 0, 0.06),
+        15.9px 22.3px 17.9px rgba(0, 0, 0, 0.072),
+        30.4px 41.8px 33.4px rgba(0, 0, 0, 0.086),
+        50px 100px 80px rgba(0, 0, 0, 0.12),
+
+          0 3.8px 4.2px rgba(0, 0, 0, 0.034),
+          0 7.7px 7.3px rgba(0, 0, 0, 0.048),
+          0 13.5px 13px rgba(0, 0, 0, 0.06),
+          0 23.3px 19.9px rgba(0, 0, 0, 0.072),
+          0 45.8px 35.4px rgba(0, 0, 0, 0.086),
+          0 100px 90px rgba(0, 0, 0, 0.12);
+
+
+  background: white;
+  border-radius: 5px;
+
+}
+/* +++++++++++++++++++++++++++++++++ */
+
+.container {
+  /*	margin-top: -100px;
+   */   display: flex;
+      align-items: center;
+    justify-content: center;
+    bottom: 0;
+    margin-bottom: 0;
+
+  }
+
+
+
+
+
